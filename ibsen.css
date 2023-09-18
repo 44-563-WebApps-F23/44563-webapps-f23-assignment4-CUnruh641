@@ -1,26 +1,26 @@
-speech {
+p:speech {
     font-family:'Times New Roman', Times, serif;
     font-size:12;
     color:black;
 }
 
-direction {
+p:direction {
     font-family:'Courier New', Courier, monospace;
     font-size:13;
     color:black;
     background-color:cornflowerblue;
 }
 
-direction.hover {
+p:direction.hover {
     color:coral;
     background-color:blue;
 }
 
-nora {
+h4:nora {
     font-weight:bold;
     color:black;
 }
 
-nurse {
+h4:nurse {
     color:cadetblue;
 }
