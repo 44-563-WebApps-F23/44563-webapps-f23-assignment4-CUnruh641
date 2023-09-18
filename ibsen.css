@@ -9,11 +9,10 @@
     font-size:13;
     color:black;
     background-color:cornflowerblue;
-}
-
-.hover {
-    color:coral;
-    background-color:blue;
+    .hover {
+        color:coral;
+        background-color:blue;
+    }
 }
 
 .nora {
