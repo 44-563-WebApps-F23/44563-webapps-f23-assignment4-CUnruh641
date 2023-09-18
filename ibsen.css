@@ -1,0 +1,26 @@
+speech {
+    font-family:'Times New Roman', Times, serif;
+    font-size:12;
+    color:black;
+}
+
+direction {
+    font-family:'Courier New', Courier, monospace;
+    font-size:13;
+    color:black;
+    background-color:cornflowerblue;
+}
+
+direction.hover {
+    color:coral;
+    background-color:blue;
+}
+
+name.nora {
+    font-weight:bold;
+    color:black;
+}
+
+name.nurse {
+    color:cadetblue;
+}
