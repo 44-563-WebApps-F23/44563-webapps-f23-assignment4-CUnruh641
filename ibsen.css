@@ -8,11 +8,12 @@
     font-family:'Courier New', Courier, monospace;
     font-size:13;
     color:black;
-    background-color:cornflowerblue;
-    .hover {
-        color:coral;
-        background-color:blue;
-    }
+    background-color:bisque;
+}
+
+.direction:hover {
+    color:cadetblue;
+    background-color:burlywood;
 }
 
 .nora {
