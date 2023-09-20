@@ -24,3 +24,9 @@
 .nurse {
     color:cadetblue;
 }
+
+.table {
+    border:solid solid solid solid;
+    text-align:left;
+    color:aquamarine;
+}
