@@ -29,16 +29,19 @@
     text-align:center;
     border:1px, solid;
     border-color:black;
+    border-collapse:collapse;
+}
+
+.th {
+    border:1px, solid;
+    border-color:black;
+    border-collapse:collapse;
+    background-color:aquamarine;
 }
 
 .td {
     border:1px, solid;
     border-color:black;
+    border-collapse:collapse;
     background-color:aquamarine;
-}
-
-.td2 {
-    border:1px, solid;
-    border-color:black;
-    background-color:lightgreen;
 }
