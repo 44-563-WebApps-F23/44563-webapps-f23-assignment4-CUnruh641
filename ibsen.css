@@ -26,7 +26,7 @@
 }
 
 .table {
-    border:solid solid solid solid;
-    text-align:left;
+    border:10px 10px 10px 10px, solid solid solid solid, black black black black;
+    text-align:center;
     color:aquamarine;
 }
