@@ -26,7 +26,10 @@
 }
 
 .table {
-    border:10px 10px 10px 10px, solid solid solid solid, black black black black;
     text-align:center;
-    color:aquamarine;
+}
+
+.row {
+    border:10px 10px 10px 10px, solid solid solid solid, black black black black;
+    background-color:aquamarine;
 }
