@@ -22,7 +22,17 @@
 }
 
 .nurse {
-    color:cadetblue;
+    font-weight:bold;
+    color:blueviolet;
+}
+
+.nora:hover {
+    text-shadow:2px 3px 5px darkblue, -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+    
+}
+
+.nurse:hover {
+    text-shadow:2px 3px 5px darkblue, -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
 }
 
 .table {
