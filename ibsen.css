@@ -30,11 +30,13 @@
 }
 
 .row {
-    border:10px 10px 10px 10px, solid solid solid solid, black black black black;
+    border-color:black black black black;
+    border:10px 10px 10px 10px, solid solid solid solid;
     background-color:aquamarine;
 }
 
 .row2 {
-    border:10px 10px 10px 10px, solid solid solid solid, black black black black;
+    border-color:black black black black;
+    border:10px 10px 10px 10px, solid solid solid solid;
     background-color:lightgreen;
 }
