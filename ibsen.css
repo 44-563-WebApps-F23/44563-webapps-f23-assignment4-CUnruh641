@@ -27,6 +27,8 @@
 
 .table {
     text-align:center;
+    border:10px 10px 10px 10px, solid solid solid solid;
+    border-color:black black black black;
 }
 
 .row {
