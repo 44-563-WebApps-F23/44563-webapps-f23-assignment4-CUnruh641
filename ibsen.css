@@ -28,20 +28,20 @@
 .table {
     text-align:center;
     border:1px, solid;
-    border-color:black;
     border-collapse:collapse;
+}
+
+.tr:nth-child(even) {
+    background-color:#f2f2f2;
 }
 
 .th {
     border:1px, solid;
-    border-color:black;
-    border-collapse:collapse;
     background-color:aquamarine;
+    color:black;
 }
 
 .td {
     border:1px, solid;
-    border-color:black;
-    border-collapse:collapse;
     background-color:aquamarine;
 }
